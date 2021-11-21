@@ -1,0 +1,20 @@
+.wrapper {
+    padding: 16px;
+    background: url("../../assets/backgroundHeader.jpg") center center no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.logobox {
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoTitle {
+    color: aliceblue;
+    text-decoration: none;
+    max-width: 160px;
+    margin-right: 16px;
+}
+
+
