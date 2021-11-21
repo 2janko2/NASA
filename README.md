@@ -1,3 +1,5 @@
+This project was created with the NASA public API [Link to the project](https://2janko2.github.io/NASA/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
